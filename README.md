@@ -1,5 +1,8 @@
 # Hi, I'm Trenton
 
+[![Website](https://img.shields.io/badge/Website-trentonbanksthecoder12.github.io-0B1B38?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trentonbanksthecoder12.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trenton%20Banks-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trenton-banks-4a81062b7/)
+
 I'm a student at Cornell focused on backend and fintech software engineering. I like systems where correctness is the whole point: money should never be created or lost by a bug, a retried request should never charge someone twice, and every number should be explainable after the fact.
 
 The projects below are built from first principles, each with tests, CI, and a walkthrough explaining the design decisions and trade-offs.
@@ -72,4 +75,4 @@ The projects below are built from first principles, each with tests, CI, and a w
 
 ## Get in touch
 
-The best way to reach me is through [GitHub](https://github.com/TrentonBankstheCoder12). Issues and pull requests on any of these projects are welcome.
+Visit my website at [trentonbanksthecoder12.github.io](https://trentonbanksthecoder12.github.io), or reach me on [LinkedIn](https://www.linkedin.com/in/trenton-banks-4a81062b7/). Issues and pull requests on any of these projects are welcome.
